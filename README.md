@@ -1,16 +1,22 @@
-### Hi there 👋
+👋 Hi, my name is KahYan and I'm a **fullstack software engineer** who is passionate about finding optimized solutions to technological issues and being able to positively impact human lives with technology 
 
-<!--
-**kahyanlee6/kahyanlee6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="KahYan's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Let's connect on [LinkedIn](linkedin.com/in/kahyan-lee)!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :inbox_tray: Send me an [email](mailto:kahyanlee6@gmail.com)
+- :computer: Software Engineer from Fullstack Academy (Grace Hopper Program)
+- :violin: Professionally trained classical musician
+
+**:gear: Libraries , Frameworks and Tools:**  
+
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a></code>
+<code><a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a></code>
+<code><a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a></code>
+<code><a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a></code>
+<code><a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a></code>
+<code><a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a></code>
+<code><a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a></code> 
+<code><a href="https://babeljs.io/" title="Babel"><img src="https://github.com/get-icon/geticon/raw/master/icons/babel.svg" alt="Babel" width="21px" height="21px"></a></code>
+<code><a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a></code>
+<code><a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="21px" height="21px"></a></code>
+<code><a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="21px" height="21px"></a></code>
