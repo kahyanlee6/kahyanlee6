@@ -5,7 +5,7 @@
 
 - :inbox_tray: Send me an [email](mailto:kahyanlee6@gmail.com)
 - :computer: Software Engineer from Fullstack Academy (Grace Hopper Program)
-- :violin: Professionally trained classical musician
+- :violin: Classical music enthusiast
 
 **:gear: Libraries , Frameworks and Tools:**  
 
