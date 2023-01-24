@@ -6,7 +6,6 @@
 - :inbox_tray: Send me an [email](mailto:kahyanlee6@gmail.com)
 - :computer: Software Engineer
 - :violin: Classical music enthusiast
-- :octocat: My work [GitHub](https://github.com/kahyanlee)
 
 **:gear: Libraries , Frameworks and Tools:**  
 
