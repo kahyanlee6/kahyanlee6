@@ -1,4 +1,4 @@
-👋 Hi, my name is KahYan and I'm a **fullstack software engineer** who is passionate about finding optimized solutions to technological issues and be able to positively impact human lives with technology :rocket:
+👋 Hi, my name is KahYan and I'm a **fullstack software engineer** who is passionate about positively impact human lives with technology :rocket:
 
 <img align="left" alt="KahYan's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Let's connect on [LinkedIn](linkedin.com/in/kahyan-lee)!
 
